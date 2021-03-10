@@ -7,10 +7,10 @@ I'm Aditya Rajguru, I'm a Web Developer 👨‍💻🌐 who is passionate about 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJS
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript, C, Python, Kotlin
+-  ⚡ Languages: JavaScript, C/C++, Python, Kotlin
 
 
 > El Psy Kongroo
