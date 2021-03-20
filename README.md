@@ -13,7 +13,7 @@ I'm Aditya Rajguru, I'm a Web Developer 👨‍💻🌐 who is passionate about 
 -  ⚡ Languages: JavaScript, C/C++, Python, Kotlin
 
 
-> El Psy Kongroo
+> If you’re not humble in this world, then the world will throw humbleness upon you. ~Mike Tyson
 
 
 ---
