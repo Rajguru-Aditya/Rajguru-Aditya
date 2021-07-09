@@ -21,5 +21,5 @@ I'm Aditya Rajguru, I'm a Web Developer 👨‍💻🌐 who is passionate about 
 </a>
 <br><br>
 <a href="https://github.com/Rajguru-Aditya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajguru-Aditya&show_icons=true&theme=dark&line_height=30" alt="Aditya's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajguru-Aditya&show_icons=true&theme=radical&hide=glsl,python&line_height=30" alt="Aditya's github stats"/>
 </a>
