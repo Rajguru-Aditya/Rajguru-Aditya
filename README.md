@@ -17,7 +17,7 @@ I'm Aditya Rajguru, I'm a Web Developer 👨‍💻🌐 who is passionate about 
 
 <br><br>
 <a href="https://github.com/Rajguru-Aditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajguru-Aditya&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajguru-Aditya&theme=radical&hide=glsl,python">
 </a>
 <br><br>
 <a href="https://github.com/Rajguru-Aditya">
