@@ -3,6 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-rajguru.aditya.25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajguru.aditya.25@gmail.com)](mailto:rajguru.aditya.25@gmail.com)
 
 ## Hi 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajguru-Aditya" alt="Rajguru-Aditya" /> </p>
+
 I'm Aditya Rajguru, I'm a Web Developer 👨‍💻🌐 who is passionate about web technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
 🏄‍♂️. 
 
