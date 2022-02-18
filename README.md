@@ -15,7 +15,7 @@ I'm Aditya Rajguru, I'm a Web and Native Developer 👨‍💻🌐 who is passio
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript, C/C++, Python, Kotlin
+-  ⚡ Languages: JavaScript, C/C++, Python
 
 
 > If you’re not humble in this world, then the world will throw humbleness upon you. ~Mike Tyson
