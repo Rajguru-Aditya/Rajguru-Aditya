@@ -12,7 +12,7 @@ I'm a self taught Web and Native Developer 👨‍💻🌐 who is passionate abo
 ####      ![](https://img.shields.io/badge/Web%20Developer-%3C%2F%3E-blueviolet)
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN stack
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, C/C++, Python
