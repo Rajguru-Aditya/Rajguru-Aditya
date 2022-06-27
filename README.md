@@ -1,6 +1,6 @@
 # Aditya Rajguru  
 [![Linkedin Badge](https://img.shields.io/badge/-AdityaRajguru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-rajguru-420464203/)](https://www.linkedin.com/in/aditya-rajguru-420464203/) [![Medium Badge](https://img.shields.io/badge/-@AdityaRajguru-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://apollonox.medium.com/)](https://apollonox.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-rajguru.aditya.25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajguru.aditya.25@gmail.com)](mailto:rajguru.aditya.25@gmail.com) ![Instagram Badge](https://img.shields.io/badge/-@apollonox.dev-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apollonox.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-rajguru.aditya.25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajguru.aditya.25@gmail.com)](mailto:rajguru.aditya.25@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@apollonox.dev-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/apollonox.dev/)](https://www.instagram.com/apollonox.dev/)
 
 ## Hi 👋
 
