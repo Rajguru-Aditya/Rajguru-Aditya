@@ -38,12 +38,3 @@ I'm a 3rd year self taught Web and Native Developer from Mumbai 👨‍💻🌐.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br><br>
-<a href="https://github.com/Rajguru-Aditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajguru-Aditya&theme=radical&hide=glsl,python">
-</a>
-<br><br>
-<a href="https://github.com/Rajguru-Aditya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajguru-Aditya&show_icons=true&theme=radical&hide=glsl,python&line_height=30" alt="Aditya's github stats"/>
-</a>
