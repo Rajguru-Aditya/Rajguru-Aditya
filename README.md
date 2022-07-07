@@ -20,7 +20,7 @@ I'm a 3rd year self taught Web and Native Developer from Mumbai 👨‍💻🌐.
 
 > If you’re not humble in this world, then the world will throw humbleness upon you. ~Mike Tyson
 
-### Languages and Tools :
+### Tools & Technologies :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
