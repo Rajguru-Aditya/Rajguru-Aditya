@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajguru-Aditya" alt="Rajguru-Aditya" /> </p>
 
-I'm a 3rd year self taught Web and Native Developer from Mumbai 👨‍💻🌐. I'm also a self proclaimed UI/UX designer and internet surfer 
+I'm a 3rd year Computer Science student and a self taught Web and Native Developer from Mumbai 👨‍💻🌐. I'm also a self proclaimed UI/UX designer and internet surfer 
 🏄‍♂️. 
 
 ####      ![](https://img.shields.io/badge/Web%20Developer-%3C%2F%3E-blueviolet)
