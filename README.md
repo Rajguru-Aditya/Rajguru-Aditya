@@ -38,6 +38,3 @@ I'm a 3rd year Computer Science student and a self taught Web and Native Develop
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajguru-Aditya&show_icons=true&locale=en" alt="Rajguru-Aditya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajguru-Aditya&" alt="Rajguru-Aditya" /></p>
