@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Next.js;Building+Web+and+Mobile+Apps;Always+Learning+New+Technologies&center=true&width=500&height=50">
+
 # 👋 Hi, I'm Aditya Rajguru
 
 💻 **Full-Stack Web & Mobile Developer**  
