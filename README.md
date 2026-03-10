@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-stack Web and App development<br>🌱 I’m currently learning backend with node js<br>💬 Ask me about tech, memes, anime<br>😄 Pronouns: he/him<br>⚡ Fun Fact: I love playing chess but I suck at it
+# 👋 Hi, I'm Aditya Rajguru
+
+💻 **Full-Stack Web & Mobile Developer**  
+🚀 Building modern web apps and cross-platform mobile applications  
+
+---
+
+## 🚀 About Me
+
+🔭 Currently working on **Full-Stack Web & Mobile Development**  
+🌱 Learning **Cloud Computing with AWS**  
+📱 Building apps using **React, React Native, and Next.js**  
+🧠 Interested in **tech, finance, productivity, and system design**  
+♟️ Fun fact: I love playing chess… but I'm still terrible at it
 
 
 ## 🌐 Socials:
