@@ -9,14 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Rajguru-Aditya
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/*.svg"
+          message: "Generate snake animation"
