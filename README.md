@@ -27,12 +27,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajguru-Aditya&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajguru-Aditya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajguru-Aditya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajguru-Aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajguru-Aditya&icon=6&color=5)](https://visitcount.itsvg.in)
 
