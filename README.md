@@ -15,6 +15,8 @@
 🧠 Interested in **tech, finance, productivity, and system design**  
 ♟️ Fun fact: I love playing chess… but I'm still terrible at it
 
+![Snake animation](https://github.com/Rajguru-Aditya/Rajguru-Aditya/blob/main/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apollonox.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apollo-nox) 
