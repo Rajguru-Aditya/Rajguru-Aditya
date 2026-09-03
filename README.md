@@ -46,11 +46,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajguru-Aditya&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajguru-Aditya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/Rajguru-Aditya/Rajguru-Aditya/main/dist/github-contribution-grid-snake.svg)
-
-## 📈 Contribution Activity
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajguru-Aditya&theme=nightowl)](https://github.com/Rajguru-Aditya)
 
 ---
 
